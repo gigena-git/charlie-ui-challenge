@@ -1,0 +1,17 @@
+.material-icons { 
+  color: black;
+}
+
+.entry {
+    color: blue;
+}
+
+.expenditure {
+  float: right;
+  color: red;
+}
+
+.income {
+  float: right;
+  color: green;
+}
